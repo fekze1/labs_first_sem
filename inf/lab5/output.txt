@@ -1,0 +1,20 @@
+White Walter Hartwell
+M20-404 1.500000
+West Kanye Omari
+S21-525 2.500000
+Durden Tyler Middlename
+B20-390 2.900000
+Pinkman Jesse Bruce
+S18-420 3.500000
+Anderson Thomas Anomaly
+M22-101 4.200000
+Toktobubu Zhiparkul Fatimovich
+S22-001 4.400000
+Butcher William Johnson
+B22-527 4.500000
+Smesharik Krosh Zaycev
+M20-192 4.600000
+Miller Joel Middlename
+B19-555 4.800000
+Murdock Matthew Michael
+S19-606 5.000000
